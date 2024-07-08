@@ -3,7 +3,8 @@ This Project was developed for training purposes only.
 It is always recommended to write a sincere Cover Letter to the organization you are applying for.
 It adds to your personal honesty and gives more authenticity to your application.
 
-# Usage license is completely free regardless. Use it on your own responsibility.
+Usage license is completely free regardless. 
+Use it on your own responsibility.
 
 # Usage:
 To use this program, you must have 3 things ready.
